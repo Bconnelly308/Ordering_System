@@ -1,5 +1,5 @@
 # Ordering_System and PoS
-## Final project for Object Oriented Development.
+## Final Project for Object Oriented Development
 ### Project Summary:
 Java project: Created an ordering system, following is a PoS. GUI uses Java Swing.
 Project to meet below guidelines:
@@ -10,9 +10,9 @@ Project to meet below guidelines:
 ### How to run
 - Download project
 - Run the Main, [App.java](https://github.com/Bconnelly308/Ordering_System/blob/master/src/App.java)
-## Project Reflection
+### Project Reflection
 
-## JUnit Tests
+### JUnit Tests
 JUnit Suite [Alltests.java](https://github.com/Bconnelly308/Ordering_System/blob/master/src/AllTests.java): Runs through all JUnit test cases.
 Junit test cases:
 - [ChickenAlfredoJTest.java](https://github.com/Bconnelly308/Ordering_System/blob/master/src/ChickenAlfredoJTest.java): Includes Command and Decorator Pattern.
